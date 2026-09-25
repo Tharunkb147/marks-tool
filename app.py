@@ -8,5 +8,5 @@ def main():
     print("Count  :", len(MARKS))
     print("Average:", average(MARKS))
     print("Highest:", highest(MARKS))
-IF __name__ == "__main__":
+if __name__ == "__main__":
     main()
